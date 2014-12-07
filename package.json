@@ -1,0 +1,12 @@
+{
+  "name": "sinch-auth",
+  "version": "0.0.1",
+  "description": "A node module to authenticate requests to the Sinch REST API",
+  "main": "sinch_auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ChewTeaYeah/sinch-auth.git",
+  "author": "Mihir Patel <mpatel88@gmail.com>, Mikhail Gorbachev <gorbachevma@gmail.com>",
+  "license": "ISC"
+}
